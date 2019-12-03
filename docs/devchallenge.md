@@ -51,7 +51,7 @@ concrete path of where you plan on going, which should include: *
 **Tell us about you. **
 
 I have worked on software development for last 28 years. Last few years
-I have developed inference systems for real time applications.
+I have developed inference systems for real time applications. Since 2012 I have worked with android, under para virtualized kernels and improving gpu performance. 
 
 **Next steps. **
 
